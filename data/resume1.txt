@@ -1,0 +1,11 @@
+Name: Arjun Reddy
+
+Skills:
+Python, Machine Learning, Pandas, NumPy, Scikit-learn, Flask, APIs
+
+Experience:
+Built multiple machine learning models for classification and prediction tasks.
+Developed REST APIs using Flask for ML model deployment.
+
+Education:
+B.Tech Computer Science

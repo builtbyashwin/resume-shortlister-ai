@@ -1,0 +1,17 @@
+Job Title: Python Machine Learning Engineer
+
+We are looking for a Python developer with strong experience in Machine Learning and backend development.
+
+Required Skills:
+- Python
+- Machine Learning
+- Data Analysis
+- Pandas
+- NumPy
+- Scikit-learn
+- APIs / Flask
+
+Nice to have:
+- SQL
+- Git
+- Model deployment
