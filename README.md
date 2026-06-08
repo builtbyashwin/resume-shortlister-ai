@@ -1,21 +1,21 @@
-# 🧠 AI Resume Shortlisting System (ATS Simulator)
+# AI Resume Shortlisting System (ATS Simulator)
 
 An intelligent resume ranking system that simulates how Applicant Tracking Systems (ATS) work in real companies. It uses Natural Language Processing (NLP) techniques to analyze resumes and rank them based on relevance to a job description.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📄 Supports multiple resume formats (`.txt`, `.pdf`, `.docx`, `.odt`)
-- 🧠 NLP-based ranking using TF-IDF + Cosine Similarity
-- 🏆 Automatic candidate ranking based on job fit
-- ⚙️ Fully offline and lightweight (CPU-friendly)
-- 📂 Batch processing from local dataset folder
-- 💡 Real-world ATS-style simulation
+- Supports multiple resume formats (`.txt`, `.pdf`, `.docx`, `.odt`)
+- NLP-based ranking using TF-IDF + Cosine Similarity
+- Automatic candidate ranking based on job fit
+- Fully offline and lightweight (CPU-friendly)
+- Batch processing from local dataset folder
+- Real-world ATS-style simulation
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - Python
 - scikit-learn
@@ -26,7 +26,7 @@ An intelligent resume ranking system that simulates how Applicant Tracking Syste
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 resume-shortlister-ai/
 │
@@ -43,7 +43,7 @@ resume-shortlister-ai/
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. Load job description from `data/job.txt`
 2. Read all resumes from the `data/` folder
@@ -54,7 +54,7 @@ resume-shortlister-ai/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 Clone the repository:
 git clone https://github.com/buildwithashwin/resume-shortlister-ai.git
@@ -68,7 +68,7 @@ python3 app.py
 
 ---
 
-## 💡 Sample Output
+## Sample Output
 
 AI RESUME SHORTLISTING SYSTEM
 
@@ -83,7 +83,7 @@ Rank 4: resume3.pdf | Score: 0.02
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Skill extraction using NLP
 - Explainable AI (why a resume ranked higher)
@@ -93,6 +93,6 @@ Rank 4: resume3.pdf | Score: 0.02
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Built by Ashwin  
